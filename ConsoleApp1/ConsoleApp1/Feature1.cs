@@ -10,5 +10,14 @@ public class Feauture1
 		//
 		// TODO: Add constructor logic here
 		//
+
+       
 	}
+
+    public int Add()
+    {
+        int x1 = 1;
+        int x2 = 2;
+        return x1 + x2;
+    }
 }
